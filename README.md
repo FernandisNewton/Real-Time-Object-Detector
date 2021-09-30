@@ -4,11 +4,10 @@
 
 # Screen Shots
 
- 
-<!-- 
-![CountryInfo](screenshots/ss2.png)
+  
+![ObjectDetection](src/screenshots/ss.png)
 
-![CountryInfo](screenshots/ss1.png) -->
+
 
  
 
