@@ -16,7 +16,7 @@
 
  
 
-Clone down this repository `git clone https://github.com/FernandisNewton/Country_Information.git`
+Clone down this repository `git clone https://github.com/FernandisNewton/reactjs_task3.git`
 You will need `node` and `npm` installed globally on your machine.  
 
 Installation:
